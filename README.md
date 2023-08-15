@@ -1,0 +1,1 @@
+# grobid-quantities-tika-parser-resources
